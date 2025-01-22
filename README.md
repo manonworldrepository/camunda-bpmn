@@ -1,6 +1,6 @@
 # Camunda
 
-## BPMN Path Finder Task
+## My BPMN Path Finder Task Solution
 
 ### To install:
 
